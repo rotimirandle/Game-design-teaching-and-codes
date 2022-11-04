@@ -1,0 +1,14 @@
+C:\Users\dualg\source\repos\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\dualg\source\repos\Collections\Collections\bin\Debug\Collections.exe
+C:\Users\dualg\source\repos\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\dualg\source\repos\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+C:\Users\dualg\source\repos\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\dualg\source\repos\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\dualg\source\repos\Collections\Collections\obj\Debug\Collections.pdb
+D:\Dropbox\Varsity\Work\2019\Game Development 2B (GADE7212)\Examples\CollectionBase Collection\Collections\Collections\bin\Debug\Collections.exe.config
+D:\Dropbox\Varsity\Work\2019\Game Development 2B (GADE7212)\Examples\CollectionBase Collection\Collections\Collections\bin\Debug\Collections.exe
+D:\Dropbox\Varsity\Work\2019\Game Development 2B (GADE7212)\Examples\CollectionBase Collection\Collections\Collections\bin\Debug\Collections.pdb
+D:\Dropbox\Varsity\Work\2019\Game Development 2B (GADE7212)\Examples\CollectionBase Collection\Collections\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+D:\Dropbox\Varsity\Work\2019\Game Development 2B (GADE7212)\Examples\CollectionBase Collection\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\Dropbox\Varsity\Work\2019\Game Development 2B (GADE7212)\Examples\CollectionBase Collection\Collections\Collections\obj\Debug\Collections.exe
+D:\Dropbox\Varsity\Work\2019\Game Development 2B (GADE7212)\Examples\CollectionBase Collection\Collections\Collections\obj\Debug\Collections.pdb
